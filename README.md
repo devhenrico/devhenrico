@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Olá, meu nome é Henrico
+💻 Sou um estudante e desenvolvedor que tem muito interesse por tecnologia, sempre buscando aprendizado e evolução na área de TI. Tenho conhecimentos em diversas tecnologias de **Front-End** e **Back-End**, e estou sempre atrás de novas ferramentas para melhorar minhas habilidades.
 
-<!--
-**devhenrico/devhenrico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tecnologias conhecidas:
+Meu objetivo é crescer na área da tecnologia da informação e se tornar um profissional de qualidade, sempre aprendendo a desenvolver soluções eficientes e evoluidas, transformando desafios em oportunidades.
 
-Here are some ideas to get you started:
+## 🎨 Front-End
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Back-End
+[![My Skills](https://skillicons.dev/icons?i=cs,mysql,dotnet,nodejs,py)](https://skillicons.dev)
+
+## 🛠️ Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=sass,vite,git,materialui)](https://skillicons.dev)
