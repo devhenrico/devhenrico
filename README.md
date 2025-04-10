@@ -2,7 +2,7 @@
 💻 Sou um estudante e desenvolvedor que tem muito interesse por tecnologia, sempre buscando aprendizado e evolução na área de TI. Tenho conhecimentos em diversas tecnologias de **Front-End** e **Back-End**, e estou sempre atrás de novas ferramentas para melhorar minhas habilidades.
 
 ## 🚀 Tecnologias conhecidas:
-Meu objetivo é crescer na área da tecnologia da informação e me tornar um profissional de qualidade, sempre aprendendo a desenvolver soluções eficientes e construtivas, transformando desafios em oportunidades.
+Meu objetivo é crescer na área da tecnologia da informação e me tornar um profissional renomado, sempre aprendendo a desenvolver soluções eficientes e construtivas, transformando desafios em oportunidades.
 
 ## 🎨 Front-End
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs)](https://skillicons.dev)
