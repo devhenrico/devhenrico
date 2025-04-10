@@ -1,4 +1,4 @@
-## 👋 Olá, meu nome é Henrico
+## Olá, meu nome é Henrico 👋
 💻 Sou um estudante e desenvolvedor que tem muito interesse por tecnologia, sempre buscando aprendizado e evolução na área de TI. Tenho conhecimentos em diversas tecnologias de **Front-End** e **Back-End**, e estou sempre atrás de novas ferramentas para melhorar minhas habilidades.
 
 ## 🚀 Tecnologias conhecidas:
