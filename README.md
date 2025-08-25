@@ -1,17 +1,17 @@
 ## Olá, meu nome é Henrico 👋
-💻 Sou um estudante e desenvolvedor que tem muito interesse por tecnologia, sempre buscando aprendizado e evolução na área de TI. Tenho conhecimentos em diversas tecnologias de **Front-End** e **Back-End**, e estou sempre atrás de novas ferramentas para melhorar minhas habilidades.
+💻 Sou um estudante e desenvolvedor que tem muito interesse por tecnologia, sempre buscando aprendizado e evolução na área de TI. Tenho conhecimentos em diversas tecnologias de **Frontend** e **Backend**, e estou sempre atrás de novas ferramentas para melhorar minhas habilidades.
 
 ## 🚀 Tecnologias conhecidas:
 Meu objetivo é crescer na área da tecnologia da informação e me tornar um profissional renomado, sempre aprendendo a desenvolver soluções eficientes e construtivas, transformando desafios em oportunidades.
 
-## 🎨 Front-End
+## 🎨 Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,sass,less)](https://skillicons.dev)
 
-## ⚙️ Back-End
-[![My Skills](https://skillicons.dev/icons?i=cs,mysql,dotnet,nodejs,py,express,mongodb,prisma,postgres)](https://skillicons.dev)
+## ⚙️ Backend
+[![My Skills](https://skillicons.dev/icons?i=cs,nodejs,py,docker,mysql,postgres,mongodb,express,prisma)](https://skillicons.dev)
 
 ## 🛠️ Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=vite,nextjs,git,vscode,visualstudio,materialui,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,nextjs,git,vscode,visualstudio,materialui,github,npm)](https://skillicons.dev)
 
 ## 📫 Contatos
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/henrico-da-silva-santos-96186b2b9/)
